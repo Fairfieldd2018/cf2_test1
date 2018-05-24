@@ -1,9 +1,10 @@
 body{
-background-color:red;
+background-color: black;
 }
 img{
 height: 20vh;
 }
+
 
 /*problem 4: 10 points each
 Set the text color in evil genius to red and the background color to black
@@ -15,11 +16,14 @@ height:50vh;
 
 .evilSide{
 height:50vh;
-
+text color: red;
+background-color: black;
 }
 
 .robotSide{
 height:50vh;
+text-color: black;
+background-color: red;
 
 }
 
